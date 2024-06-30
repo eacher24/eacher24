@@ -2,7 +2,7 @@
 
 ### 🚀 A little about me...
 
-I am Elise Acher, a **Full Stack Developer** (specialising mostly in frontend but with a curioisty for backend too) with a real passion for bringing ideas to life in the most creative of ways. 
+I am Elise Acher, a **Full Stack Developer** (specialising mostly in frontend but with a curioisty for backend too) with a real passion for bringing ideas to life in the most creative of ways. My academic background is in Physics, where I was first introduced to Data Science and python for data collection, manipulation and presentation. There I completed my Bachelors Degree at the University of Manchester, Uk.
 
 
 🛠️ In May of 2024 I graduated from the Le Wagon London Full Stack Development bootcamp which faciliated as a way to brush up on my previous development skills as well as deepen my understanding of the development process from concept to completion. From this, I have embarked on my freelance journey as well as experiementing with building SAAS's.
@@ -14,14 +14,12 @@ I am Elise Acher, a **Full Stack Developer** (specialising mostly in frontend bu
 <br/>
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=black)
 
-🎓 My academic background is in Physics, where I was first introduced to Data Science and python for data collection, manipulation and presentatiom. There I completed my Bachelors Degree at the University of Manchester, Uk.
-
 
 ### On a more personal level...
 
 🌍 I really enjoy travelling, having started my travel adventures in March 2023, I have been to Barcelona, Lisbon, Porto, Algiers and Copenhagen in this time
 <br/>
-🌉 I enjoyed Lisbon so much that I lived there for a few months in 2024 and looking to permantly relocate there!
+🌉 I enjoyed Lisbon so much that I lived there for a few months in 2024 and looking now to permantly relocate there!
 <br/>
 🎹 I have been playing piano now for more than 15 years...and I still love it!
 <!--
