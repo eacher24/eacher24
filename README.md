@@ -9,7 +9,6 @@ I am Elise Acher, a **Full Stack Developer** (specialising mostly in frontend bu
 <br/>
 ![Static Badge](https://img.shields.io/badge/Rails-%23D30001?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white&labelColor=%23D30001&color=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23D30001?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E&color=white)
-<br/>
 ![Static Badge](https://img.shields.io/badge/MVC%20Architecture-blue?style=flat&logoColor=white&labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/UX%2FUI-blue?style=flat&logoColor=white&labelColor=green&color=white)
 ![Static Badge](https://img.shields.io/badge/OOP%20Principles-blue?style=flat&logoColor=white&labelColor=yellow&color=white)
