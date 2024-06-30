@@ -17,9 +17,11 @@ I am Elise Acher, a **Full Stack Developer** (specialising mostly in frontend bu
 🎓 My academic background is in Physics, where I was first introduced to Data Science and python for data collection, manipulation and presentatiom. There I completed my Bachelors Degree at the University of Manchester, Uk.
 
 
-### 🏅Projects I am Proud of 
+### On a more personal level...
 
-
+✈I really enjoy travelling, having started my travel adventures in March 2023, I have been to Barcelona, Lisbon, Porto, Algiers and Copenhagen in this time
+🌉 I enjoyed Lisbon so much that I lived there for a few months in 2024 and looking to permantly relocate there!
+🎹 I have been playing piano now for more than 15 years...and I still love it!
 <!--
 **eacher24/eacher24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
