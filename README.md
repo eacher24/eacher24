@@ -7,6 +7,7 @@ I am Elise Acher, a **Full Stack Developer** (specialising mostly in frontend bu
 
 🛠️ In May of 2024 I graduated from the Le Wagon London Full Stack Development bootcamp which faciliated as a way to brush up on my previous development skills as well as deepen my understanding of the development process from concept to completion. From this, I have embarked on my freelance journey as well as experiementing with building SAAS's.
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![react]
 
 
 👩🏻‍💻 I began my journey into tech in between my studies, in my second year of University in 2021. I really enjoy learning new technologies and among the first I learnt were: **HTML**, **CSS**, **Javascript** and **React.js**
