@@ -19,8 +19,10 @@ I am Elise Acher, a **Full Stack Developer** (specialising mostly in frontend bu
 
 ### On a more personal level...
 
-✈I really enjoy travelling, having started my travel adventures in March 2023, I have been to Barcelona, Lisbon, Porto, Algiers and Copenhagen in this time
+🌍 I really enjoy travelling, having started my travel adventures in March 2023, I have been to Barcelona, Lisbon, Porto, Algiers and Copenhagen in this time
+<br/>
 🌉 I enjoyed Lisbon so much that I lived there for a few months in 2024 and looking to permantly relocate there!
+<br/>
 🎹 I have been playing piano now for more than 15 years...and I still love it!
 <!--
 **eacher24/eacher24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
